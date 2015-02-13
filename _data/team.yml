@@ -3,7 +3,7 @@
   name: "Jensen"
   surname: "Björn"
   title: "Certified Scrum Trainer"
-  thumbnailUrl: bjensen.jpg
+  thumbnailUrl: BjoernJensen.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
