@@ -1,17 +1,17 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
+  name: "Jensen"
+  surname: "Björn"
+  title: "Certified Scrum Trainer"
   thumbnailUrl: VitaliyZasadnyy.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://google.com/+BjörnJensen_hh"}
+    - {name: "twitter", link: "https://twitter.com/mirouhh"}
+    - {name: "github", link: "https://github.com/mirouhh"}
+    - {name: "site", link: "http://www.improuv.com/users/björn-jensen"}
 - 
   id: 1
   name: "Oleh"
