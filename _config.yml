@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Agile Engineering"
 email: "contact@agile.engineering"
-description: "GDG DevFest is a set of events all around the world"
+description: "Everything You Always Wanted to Know About Agile Engineering - But Were Afraid to Ask"
 baseurl: "/spanish_orange"
 url: "http://improuv.github.io"
 permalink: "/blog/:title"
@@ -23,21 +23,21 @@ permalink: "/blog/:title"
 # Organizer Info
 organizerName: "improuv GmbH"
 organizerAlternateName: "improuv GmbH"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerDescription: "Coaching & Training Company focused on Lean & Agile. Based in Munich & Hamburg."
+organizerEmail: "training@improuv.com"
 organizerLogo: "/img/seo/improuv_logo_negschwarz.jpg"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://www.improuv.com/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "agile, scrum, development, tdd, bdd, programming, pair programming, extreme programming, java, ruby, android, groovy, improuv, kanban"
+twitterAccount: "@improuv"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+#c4pUrl: "http://bit.ly/dfua-c4p"
+#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
@@ -175,19 +175,19 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/intent/user?screen_name=improuv", icon: "twitter"}
+ - {link: "https://facebook.com/improuv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "http://www.improuv.com", text: "www.improuv.com"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:training@improuv.com", text: "training@improuv.com"}
  -
   title: "FAQ"
   links:
