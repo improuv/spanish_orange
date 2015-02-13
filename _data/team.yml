@@ -14,16 +14,21 @@
     - {name: "site", link: "http://www.improuv.com/users/björn-jensen"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Daniel"
+  surname: "Zappold"
+  title: "Certified Scrum Professional"
+  thumbnailUrl: DanielZappold.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "CSM", title: "Certified Scrum Master"}
+    - {abbr: "CSPO", title: "Certified Scrum Product Owner"}
+    - {abbr: "CSD", title: "Certified Scrum Developer"}
+    - {abbr: "CSP", title: "Certified Scrum Professional"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "https://google.com/+DanielZappold"}
+    - {name: "github", link: "https://github.com/dzappold"}
+    - {name: "twitter", link: "https://twitter.com/dzappold"}
+    - {name: "site", link: "http://www.improuv.com/users/daniel-zappold"}
 - 
   id: 2
   name: "Ostap"
