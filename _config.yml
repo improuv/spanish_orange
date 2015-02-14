@@ -120,7 +120,7 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
+organizersTitle: "Trainer"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
@@ -203,7 +203,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "Our improuv trainer team for technical courses. They have a deep understanding in agile engineering topics like test driven development (TDD), clean code or continuous integration (CI). During their work as agile coaches and team members in several teams they gained a lot of practical experiences. They like to share their knowledge."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"

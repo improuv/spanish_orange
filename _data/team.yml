@@ -13,9 +13,9 @@
     - {name: "github", link: "https://github.com/mirouhh"}
     - {name: "site", link: "http://www.improuv.com/users/björn-jensen"}
 - 
-  id: 1
-  name: "Daniel"
-  surname: "Zappold"
+  id: 7
+  name: "Zappold"
+  surname: "Daniel"
   title: "Certified Scrum Professional"
   thumbnailUrl: DanielZappold.jpg
   team: true
@@ -43,23 +43,14 @@
     - {name: "twitter", link: "https://twitter.com/p1f"}
     - {name: "site", link: "http://andrusiv.com/"}
 - 
-  id: 4
+  id: 3
   name: "Dmytro"
   surname: "Danylyk"
   title: "Android Program Committee"
   thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  team: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
