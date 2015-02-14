@@ -203,7 +203,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Our improuv trainer team for technical courses. They have a deep understanding in agile engineering topics like test driven development (TDD), clean code or continuous integration (CI). During their work as agile coaches and team members in several teams they gained a lot of practical experiences. They like to share their knowledge."
+aboutUs: "We help you deliver reliable high quality software more efficiently. <br>Agile software development places high demands on every team member. Good software development skills alone are not enough. For your teams to regularly deliver high quality software they will need to develop good agile software engineering skills. <br>We will support you in the efficient delivery of high quality reliable software. We coach your developers and testers and provide best practices and support in Continuous Delivery, Test-Driven-Development, Clean Code, Refactoring and Pair Programming, and support your teams and projects with experienced agile developers. <br><br>Our improuv trainer team for technical courses. They have a deep understanding in agile engineering topics like test driven development (TDD), clean code or continuous integration (CI). During their work as agile coaches and team members in several teams they gained a lot of practical experiences. They like to share their knowledge."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
