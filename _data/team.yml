@@ -1,7 +1,7 @@
 - 
   id: 0
-  name: "Jensen"
-  surname: "Björn"
+  name: "Björn"
+  surname: "Jensen"
   title: "Certified Scrum Trainer"
   thumbnailUrl: BjoernJensen.jpg
   team: true
@@ -14,8 +14,8 @@
     - {name: "site", link: "http://www.improuv.com/users/björn-jensen"}
 - 
   id: 7
-  name: "Zappold"
-  surname: "Daniel"
+  name: "Daniel"
+  surname: "Zappold"
   title: "Certified Scrum Professional"
   thumbnailUrl: DanielZappold.jpg
   team: true
