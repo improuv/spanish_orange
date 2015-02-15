@@ -29,6 +29,8 @@
     - {name: "github", link: "https://github.com/dzappold"}
     - {name: "twitter", link: "https://twitter.com/dzappold"}
     - {name: "site", link: "http://www.improuv.com/users/daniel-zappold"}
+    - {name: "xing", link: "http://www.xing.com/dzappold"}
+    - {name: "linkedin", link: "http://www.improuv.com/users/daniel-zappold"}
 - 
   id: 2
   name: "Ostap"
