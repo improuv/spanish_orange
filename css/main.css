@@ -2753,20 +2753,20 @@ time {
 }
 
 .logo {
-    background-image: url("../img/logos/improuv_logo_negschwarz.jpg");
+    background-image: url("../img/logos/improuv_logo.png");
     background-repeat: no-repeat
 }
 
 .logo.logo-dark {
-    background-position: 0 -1px
+    background-position: 0 20px
 }
 
 .logo.logo-gray {
-    background-position: 0 -63px
+    background-position: 0 20px
 }
 
 .logo.logo-light {
-    background-position: 0 -127px
+    background-position: 0 20px
 }
 
 .icon {

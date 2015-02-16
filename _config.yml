@@ -39,8 +39,8 @@ socialImageSrcFacebook: "/img/logos/improuv_logo_weiss.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/articles/", text: "Articles"}
- - {permalink: "/trainings/", text: "Trainings"}
  - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/trainings/", text: "Trainings"}
  - {permalink: "/team/", text: "Team"}
 bottomNavigationLinks:
 # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
