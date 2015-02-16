@@ -24,11 +24,7 @@ layout: compress
         </div>
     </div>
 
-    <!--{% if page.modal != null %}
-    	{% include speakers-modals.html %} 
-    {% endif %} 
-
-    {% if page.permalink == '/schedule/' %}
+    <!-- {% if page.permalink == '/schedule/' %}
         {% include sessions-modals.html %} 
     {% endif %} -->
 
@@ -72,7 +68,7 @@ layout: compress
             $(document).ready(function () {
                 $(function () {
                     if ($(window).width() > 767) {
-                        $("#typeout-text").typed({
+                        $("typeout-text").typed({
                             strings: [{{site.typeoutTextValues}}],
                             typeSpeed: 150,
                             backDelay: 900,
@@ -95,7 +91,7 @@ layout: compress
         </script>
     {% endif %}
 
-    {% include schema-event.html %}
+    <!-- {% include schema-event.html %} -->
 </body>
 
 </html>
