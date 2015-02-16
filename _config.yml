@@ -31,9 +31,9 @@ organizerLink: "http://www.improuv.com/"
 # Head
 metaKeywords: "agile, scrum, development, tdd, bdd, programming, pair programming, extreme programming, java, ruby, android, groovy, improuv, kanban"
 twitterAccount: "@improuv"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+#socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+#socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+#socialImageSrcFacebook: "/img/logos/improuv_logo_weiss.png"
 
 # Documents
 #c4pUrl: "http://bit.ly/dfua-c4p"
@@ -45,9 +45,9 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/trainings/", text: "Trainings"}
  - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/team/", text: "Team"}
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
@@ -84,10 +84,10 @@ statisticBlock:
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+#rockstarSpeakersImage: "rockstar-speakers.jpg"
+#rockstarSpeakersCount: 4
+#rockstarSpeakersTitle: "Rockstar speakers"
+#rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
@@ -115,10 +115,10 @@ venueTitle: "Kinopalace Cinema"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "agile-engineering"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+#tweetsFeedImage: "twitter-feed.jpg"
+#tweetsFeedTitle: "What's Up?"
+#twitterHashTag: "agile.engineering"
+#twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -217,7 +217,7 @@ logisticsMapCenterCoordinates: "48.115884,11.589546"
 logisticsMapMobileCenterCoordinates: "48.115884,11.589546"
 
 # Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
+#directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Lviv"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
@@ -272,18 +272,18 @@ prizes:
  - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
 
 # Hackathon Location Block
-hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
-hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
-hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
-hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
+#hackathonLocationBlockTitle: "Location"
+#hackathonLocationName: "Communa"
+#hackathonLocationLink: "http://communa.net.ua/"
+#hackathonStreetAddress: "1 Halytska St"
+#hackathonAddressLocality: "Lviv"
+#hackathonAddressLocalityRegion: "Lvivska"
+#hackathonPostalCode: "79000"
+#hackathonAddressCountry: "Ukraine"
+#hackathonTimeTitle: "Hack through"
+#hackathonStartTime: "2014-10-24T10:00"
+#hackathonDoorTime: "09:00"
+#hackathonEndTime: "2014-10-25T00:00"
 viewOnMap: "View on Google Maps"
 hackathonPlaceCoordinates: "49.840999, 24.031144"
 hackathonMapCenterCoordinates: "49.840696, 24.028754"
