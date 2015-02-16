@@ -2,7 +2,7 @@
 layout: post
 title:  "Continuous Integration"
 date:   2015-01-01 09:00:00
-author: Daniel
+author: Daniel Zappold
 isStaticPost: false
 ---
 Zurzeit steigt das Bewusstsein für die Bedeutung von Continuous Integration immer stärker, hier mit eingerechnet sind auch Continuous Deployment und Continuous Delivery. Insbesondere letzteres ist für viele Projekte ein hehres Ziel.
