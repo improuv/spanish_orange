@@ -38,7 +38,7 @@ socialImageSrcFacebook: "/img/logos/improuv_logo_weiss.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-# - {permalink: "/articles/", text: "Articles"}
+ - {permalink: "/articles/", text: "Articles"}
  - {permalink: "/blog/", text: "Blog"}
 # - {permalink: "/trainings/", text: "Trainings"}
  - {permalink: "/team/", text: "Team"}
