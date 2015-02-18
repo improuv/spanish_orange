@@ -42,6 +42,7 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
 # - {permalink: "/trainings/", text: "Trainings"}
  - {permalink: "/team/", text: "Team"}
+ - {permalink: "/impressum/", text: "Impressum"}
 bottomNavigationLinks:
 # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
