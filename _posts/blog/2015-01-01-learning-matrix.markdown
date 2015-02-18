@@ -4,7 +4,8 @@ title:  "Bei Dir oder bei mir: Pairing - Wer wann mit wem?"
 date:   2015-01-01 09:00:00
 author: Björn Jensen
 isStaticPost: false
-isArticle: false
+categories:
+- blog
 ---
 Pair Programming - oder allgemeiner formuliert "Pairing" - ist eine weit verbreitete Methode in der agilen Softwareentwicklung. Dabei haben wir Teams mit ganz unterschiedlichen Ansätzen und Einstellungen zu dieser Praktik erlebt: von gar nicht, bis nur. Und auf die Fragen hin, was denn unsere Empfehlung ist, gibt es meist die Standardantwort "Es kommt darauf an...".
 
