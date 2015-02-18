@@ -50,9 +50,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "About <typeout> Engineering"
+heroTitle: "<typeout>Engineering"
 eventDate: "What's next in 2015"
-typeoutTextValues: '"", "Next Generation", "Agile", "Lean"'
+typeoutTextValues: '"", "Next Generation", "Agile", "Lean", "Next Level of"'
 typeoutFallback: "Agile"
 heroButtons:
  - {link: "http://improuv.com", text: "Book now"}
