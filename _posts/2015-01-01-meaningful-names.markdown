@@ -4,6 +4,7 @@ title:  "Meaningful Names"
 date:   2015-01-01 09:00:00
 author: Daniel Zappold
 isStaticPost: false
+isArticle: false
 ---
 Immer wieder stolpert man beim Lesen von Sourcecode über Namensgebungen. Dies wird insbesondere durch TDD und Clean Code stärker forciert, so dass man sich oft fragen muss, was macht die Variable, die Methode oder die Klasse wirklich?
 Oftmals wird im Alltagsgeschäft vergessen gute Benamungen zu vergeben, sei es aus mangelnder Idee für einen guten Namen, fehlende Vorstellung was sich alles hinter dieser Variable, Methode oder Klasse verbirgt oder schlicht aus "Zeitmangel". Zeitmangel rächt sich spätestens wenn ich den Code öfters lesen und verstehen muss, so dass die Initial verwendete Zeit ein gutes Investment ist, welches sich später auszahlt.
