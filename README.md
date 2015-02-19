@@ -17,11 +17,11 @@ In real life it should look like
 
 ### Adding blog posts
 A blog post is something very short and personal. If you want to to add a blog post you have to add a file containing the post to
-
+```bash
 _posts/blog
-
+```
 And there is a very specific content that has to be in this file as well which is the so-called "Front Matter". Here you're adding some kind of metainformation regarding the content. For a blog post it should look like 
-
+```bash
 ---
 layout: post                # What kind of layout should be used for your post?
 title:  "Meaningful Names"  # What's the name that should be shown?
@@ -31,21 +31,21 @@ isStaticPost: false         # Is this static or not? A blog is more or less dyna
 categories:					# What is this kind of post?
 - blog                      # A blog post!
 ---
-
+```
 ### Adding articles
 Articles are more specific and unpersonal. It should be used for more general topics so we can create an index out of it. As blog posts we should follow some conventions as well. So please add an article to
-
+```bash
 _posts/articles
-
+```
 The "Front Matter" is almost the same compared to the blog posts. There's only a single change:
-
+```bash
 ---
 <... same content as blog posts ...>
 
 categories:					# What is this kind of post?
 - article                   # An article!
 ---
-
+```
 ## Old Read me content
 
 ### About 
