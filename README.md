@@ -8,13 +8,13 @@ Find below a brief description how you can add content to the different sections
 
 ### Filename
 The file you're going to add has to follow this naming convention:
-
+```bash
 YEAR-MONTH-DAY-title.MARKUP
-
+```
 In real life it should look like
-
+```bash
 2012-09-12-how-to-write-a-blog.textile
-
+```
 ### Adding blog posts
 A blog post is something very short and personal. If you want to to add a blog post you have to add a file containing the post to
 ```bash
