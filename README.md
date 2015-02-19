@@ -1,4 +1,52 @@
-# Project Zeppelin / GDG DevFest 2014 site template
+# Tekkie Offensive Website 
+
+## Work in Progress
+We forked this site from the gdg-x project zeppelin. Because we're still in transition it might be a bit outdated and blurred here but this will be better from time to time ;) Please be patient.
+
+## Adding content
+Find below a brief description how you can add content to the different sections. In order to use the dynamics and automatics provided by [Jekyll](http://jekyllrb.com/) we are using markdown in every kind of post. But we're differentiate between several kinds of posts. And we're going to introduce them here as well very briefly. For everything we're adding you should keep some conventions in mind:
+
+### Filename
+The file you're going to add has to follow this naming convention:
+
+YEAR-MONTH-DAY-title.MARKUP
+
+In real life it should look like
+
+2012-09-12-how-to-write-a-blog.textile
+
+### Adding blog posts
+A blog post is something very short and personal. If you want to to add a blog post you have to add a file containing the post to
+
+_posts/blog
+
+And there is a very specific content that has to be in this file as well which is the so-called "Front Matter". Here you're adding some kind of metainformation regarding the content. For a blog post it should look like 
+
+---
+layout: post                # What kind of layout should be used for your post?
+title:  "Meaningful Names"  # What's the name that should be shown?
+date:   2015-01-01 09:00:00 # The publishing date...
+author: Daniel Zappold      # The authors name (in most case yours ;)
+isStaticPost: false         # Is this static or not? A blog is more or less dynamic
+categories:					# What is this kind of post?
+- blog                      # A blog post!
+---
+
+### Adding articles
+Articles are more specific and unpersonal. It should be used for more general topics so we can create an index out of it. As blog posts we should follow some conventions as well. So please add an article to
+
+_posts/articles
+
+The "Front Matter" is almost the same compared to the blog posts. There's only a single change:
+
+---
+<... same content as blog posts ...>
+
+categories:					# What is this kind of post?
+- article                   # An article!
+---
+
+## Old Read me content
 
 ### About 
 Project Zeppelin allows you to setup awesome GDG DevFest site in 5 minutes. 
